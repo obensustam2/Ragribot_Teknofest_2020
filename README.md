@@ -6,6 +6,6 @@ After receiving command from mobile app, raspberry pi sends actuator commands to
 
 Sensor measurements are done on raspberry pi and uploaded to ThingSpeak IOT platform. Then data is visualized on Android app.
 
-ThinkSpeak IOT Platform: https://thingspeak.com/channels/1024833/private_show
+ThinkSpeak IOT Platform: https://thingspeak.com
 
-MIT App Inventor: http://ai2.appinventor.mit.edu/#5971858543738880
+MIT App Inventor: http://appinventor.mit.edu
