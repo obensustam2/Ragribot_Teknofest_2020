@@ -9,3 +9,8 @@ Sensor measurements are done on raspberry pi and uploaded to ThingSpeak IOT plat
 ThinkSpeak IOT Platform: https://thingspeak.com
 
 MIT App Inventor: http://appinventor.mit.edu
+
+## Project Team
+- Cihan Yurtsever
+- Yasin Ertaş
+- Oben Sustam
