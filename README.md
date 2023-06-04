@@ -1,4 +1,4 @@
-# How robot works ?
+# How does robot work?
 
 Seperate actuator control and fully seed sowing application can be triggered from android app via socket communication(tcp-ip) 
 
@@ -9,6 +9,9 @@ Sensor measurements are done on raspberry pi and uploaded to ThingSpeak IOT plat
 ThinkSpeak IOT Platform: https://thingspeak.com
 
 MIT App Inventor: http://appinventor.mit.edu
+
+## Project Supervisor
+Prof. Cenk Ulu
 
 ## Project Team
 - Cihan Yurtsever
